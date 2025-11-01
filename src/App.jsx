@@ -6,7 +6,7 @@ import Skills from './components/skills.jsx';
 import Experience from './components/experience.jsx';
 import Achievements from './components/achivements.jsx';
 import Projects from './components/projects.jsx';
-import './app.css';
+import './App.css';
 
 function App() {
   return (
